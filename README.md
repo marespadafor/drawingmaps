@@ -9,7 +9,7 @@ This is an introductory course on spatial data taught within the CLIC Training w
 - Use ggmap and ggplot2 to make some pretty maps
 - Discuss some ggplot2 related issues about plotting 
 - Using sp to plot maps with different projections
-- Bonus: calculate distances and applications—if time allows us J
+- Bonus: calculate distances and applications
 
 Requirements: basic R knowledge (ggplot2 and tidyverse) or a lot of interest and willingness to learn!
 
@@ -28,8 +28,6 @@ THIS IS ESSENTIAL: Before we can start geocoding, we need to obtain an API key f
 ### 3. Set your working directory
 
 Assign a folder with all the materials and set your working directory to the folder there, use your google key and the packages that we are going to use. You can also follow lines 1-18 in "exercises_datapoints.R"
- 
-- You can also read about different coordinate systems, map projections and transformations: http://resources.esri.com/help/9.3/arcgisengine/dotnet/89b720a5-7339-44b0-8b58-0f5bf2843393.htm
  
  
 ### 4. Download the materials. 
