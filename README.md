@@ -1,7 +1,19 @@
 # Drawing Maps in R
 This is an introductory course on spatial data taught within the CLIC Training workshops (as part of the Advanced Topics in Social Mobility research seminar) at the European University Institute.
 
-## Instructions
+## Lab’s Goals
+
+- Introduce researchers to basic GIS concepts and how to read traditional GIS shapefiles in R
+- Introduce researchers to the map outlines available in the maps package
+- Show how to convert those data into data frames that ggplot2 can deal with
+- Use ggmap and ggplot2 to make some pretty maps
+- Discuss some ggplot2 related issues about plotting 
+- Using sp to plot maps with different projections
+- Bonus: calculate distances and applications—if time allows us J
+
+Requirements: basic R knowledge (ggplot2 and tidyverse) or a lot of interest and willingness to learn!
+
+# Instructions
 
 BEFORE WE START—very important:
  
@@ -22,6 +34,9 @@ Assign a folder with all the materials and set your working directory to the fol
  
 ### 4. Download the materials. 
 
-The materials for this course consist on data files, slides (in Rmarckdown), and exercises. The slides not only contain information, but also the solution to the examples and exercises for each part. Make sure you download all of them!
+The materials for this course consist on data files, slides, and exercises. The slides not only contain information, but also the solution to the examples and exercises for each part. TMake sure you download all of them! The course is divided in two parts:
+
+- Part I consists of exercises with data points.
+- Part II consists of exercises with polygons.
 
 
