@@ -32,7 +32,7 @@ Assign a folder with all the materials and set your working directory to the fol
  
 ### 4. Download the materials. 
 
-The materials for this course consist on data files, slides, and exercises. The slides not only contain information, but also the solution to the examples and exercises for each part. TMake sure you download all of them! The course is divided in two parts:
+The materials for this course consist on data files, slides, a shape file (municipios_y_distritos_madrid), and the corresponding R code and exercises. The slides not only contain information, but also the solution to the examples and exercises for each part. TMake sure you download all of them! The course is divided in two parts:
 
 - Part I consists of exercises with data points.
 - Part II consists of exercises with polygons.
