@@ -19,7 +19,7 @@ bets<-read_dta("bets.dta")
 income<- read_dta("basedatos.dta")
 betting<- read_dta("mc_income.dta")
 
-register_google(key = "AIzaSyAblmReH4FA5fZW50f5l6-HndvsNAL4_nM")
+register_google(key = "your key")
 ```
 
 ## COMMON TYPES OF SPATIAL DATA
