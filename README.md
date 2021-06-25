@@ -1,5 +1,5 @@
 # Drawing Maps in R
-This is an introductory course on spatial data taught within the CLIC Training workshops (as part of the Advanced Topics in Social Mobility research seminar) at the European University Institute.
+This is an introductory course on spatial data taught within the CLIC Training workshops (funded by the GEOSMITE PROJECT) at the European University Institute.
 
 ## Lab’s Goals
 
